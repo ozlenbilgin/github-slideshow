@@ -1,0 +1,231 @@
+[33mcommit 01f2b870ef79865eeb27cae5d41ff74298c2faca[m[33m ([m[1;36mHEAD -> [m[1;32mfeature/new-branch[m[33m, [m[1;31morigin/feature/new-branch[m[33m)[m
+Author: Ozlen Bilgin <ozlen.bilgin@ctac.nl>
+Date:   Mon May 8 08:55:56 2023 +0200
+
+    added new file
+
+[33mcommit 749e39ee484326e2d0cea4b09fba3a377ea551f6[m
+Author: Ozlen Bilgin <ozlen.bilgin@ctac.nl>
+Date:   Mon May 8 00:04:15 2023 +0200
+
+    remove server
+
+[33mcommit 35766a8b44b588219391e118652d866c09e4e000[m
+Author: Ozlen Bilgin <ozlen.bilgin@ctac.nl>
+Date:   Sun May 7 23:46:20 2023 +0200
+
+    remove line
+
+[33mcommit 0f21a6e54466fa81577797c8796e9222d5953a87[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: c7a5570 17e844d
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Fri Jul 16 15:50:48 2021 +0000
+
+    Merge pull request #16 from githubtraining/dependabot/bundler/addressable-2.8.0
+
+[33mcommit 17e844d9fc2f0c947377f28cb0046fa9a499f705[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Jul 12 21:37:38 2021 +0000
+
+    Bump addressable from 2.7.0 to 2.8.0
+    
+    Bumps [addressable](https://github.com/sporkmonger/addressable) from 2.7.0 to 2.8.0.
+    - [Release notes](https://github.com/sporkmonger/addressable/releases)
+    - [Changelog](https://github.com/sporkmonger/addressable/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/sporkmonger/addressable/compare/addressable-2.7.0...addressable-2.8.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: addressable
+      dependency-type: indirect
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit c7a55706779987602c85eaebe75a07e14508585c[m
+Merge: f4c7073 b49afbc
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Thu May 20 12:49:40 2021 +0000
+
+    Merge pull request #15 from githubtraining/dependabot/bundler/nokogiri-1.11.4
+
+[33mcommit b49afbc77b08a1b0ce532b3ecce66cc3ae822e1c[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Wed May 19 07:21:32 2021 +0000
+
+    Bump nokogiri from 1.11.3 to 1.11.4
+    
+    Bumps [nokogiri](https://github.com/sparklemotion/nokogiri) from 1.11.3 to 1.11.4.
+    - [Release notes](https://github.com/sparklemotion/nokogiri/releases)
+    - [Changelog](https://github.com/sparklemotion/nokogiri/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/sparklemotion/nokogiri/compare/v1.11.3...v1.11.4)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit f4c70734d62cab642b93551763456ce6f5dd46b7[m
+Author: Hector Alfaro <hectorsector@github.com>
+Date:   Mon Apr 19 12:20:01 2021 +0000
+
+    bump github-pages
+
+[33mcommit 007a96d5665f1e13a5000d1bc877e2c53833afed[m
+Merge: d64d186 0437db1
+Author: Hector Alfaro <hectorsector@github.com>
+Date:   Mon Jan 25 09:45:51 2021 -0500
+
+    Merge pull request #14 from githubtraining/dependabot/bundler/nokogiri-1.11.1
+    
+    Bump nokogiri from 1.10.8 to 1.11.1
+
+[33mcommit 0437db1eaa87820612fd12c215466af03f79c25e[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Jan 25 14:43:32 2021 +0000
+
+    Bump nokogiri from 1.10.8 to 1.11.1
+    
+    Bumps [nokogiri](https://github.com/sparklemotion/nokogiri) from 1.10.8 to 1.11.1.
+    - [Release notes](https://github.com/sparklemotion/nokogiri/releases)
+    - [Changelog](https://github.com/sparklemotion/nokogiri/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/sparklemotion/nokogiri/compare/v1.10.8...v1.11.1)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit d64d18660190ae168abca68d747611affb4be584[m
+Author: Hector Alfaro <hectorsector@github.com>
+Date:   Tue Sep 8 23:15:20 2020 -0400
+
+    bump github-pages
+
+[33mcommit 5431165ee7d727f3d4580cbdaa1ebf04aff97e98[m
+Merge: 7041185 f3d6e95
+Author: Jason Etcovitch <jasonetco@github.com>
+Date:   Fri May 8 17:07:20 2020 -0400
+
+    Merge pull request #13 from githubtraining/remove-baseurl
+    
+    Comment out `baseurl`
+
+[33mcommit f3d6e95fc45c7d8b031e9c89aa931fd57ca6575d[m
+Author: Jason Etcovitch <jasonetco@github.com>
+Date:   Fri May 8 17:01:31 2020 -0400
+
+    Comment out `baseurl`
+
+[33mcommit 70411855679ad6d73c638735eed1119118169b3b[m
+Author: Hector Alfaro <hectorsector@github.com>
+Date:   Wed Mar 25 11:44:55 2020 -0400
+
+    Update marked.js
+
+[33mcommit 960d9eb839d430edaf4a3d2fe4c11bea67c1aa79[m
+Author: Hector Alfaro <hectorsector@github.com>
+Date:   Wed Mar 25 11:12:55 2020 -0400
+
+    remove use of circleci
+
+[33mcommit 78e8155e1514e475fdc03a71d7e6a6ad38f39306[m
+Author: Hector Alfaro <hectorsector@github.com>
+Date:   Wed Mar 25 11:12:40 2020 -0400
+
+    fix references to nonexistent submodule
+
+[33mcommit 64285746c008efb5915b455691bfdfc894eea93e[m
+Author: Hector Alfaro <hectorsector@github.com>
+Date:   Wed Mar 25 11:12:21 2020 -0400
+
+    remove dependencies now in the submodule
+
+[33mcommit 158c33ac1331a5363e80546cb0bc0556f7e66f96[m
+Author: Hector Alfaro <hectorsector@github.com>
+Date:   Wed Mar 25 11:10:55 2020 -0400
+
+    use node module for reveal.js
+
+[33mcommit 749192b3e6e2af4a49c1231e065e420f77e50b3d[m
+Author: Hector Alfaro <hectorsector@github.com>
+Date:   Wed Mar 25 10:42:10 2020 -0400
+
+    removed submodule
+
+[33mcommit ca02c304541e31f546546dc2836a638bdd30a780[m
+Merge: b38108e b0384ed
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Tue Mar 3 08:12:48 2020 +0000
+
+    Merge pull request #12 from githubtraining/dependabot/bundler/nokogiri-1.10.8
+
+[33mcommit b0384edc468dc357b7d508c596971b25f79ca2ac[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Tue Feb 25 09:28:09 2020 +0000
+
+    Bump nokogiri from 1.10.5 to 1.10.8
+    
+    Bumps [nokogiri](https://github.com/sparklemotion/nokogiri) from 1.10.5 to 1.10.8.
+    - [Release notes](https://github.com/sparklemotion/nokogiri/releases)
+    - [Changelog](https://github.com/sparklemotion/nokogiri/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/sparklemotion/nokogiri/compare/v1.10.5...v1.10.8)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit b38108e7c7a4cd04d6273111f8696dc56108aaa6[m
+Merge: 40194c7 26ead39
+Author: Briana Swift <brianamarie@github.com>
+Date:   Mon Nov 25 09:47:20 2019 +0100
+
+    Merge pull request #11 from githubtraining/snyk-fix-adfba2ead3f8458c04ccb3c335587f79
+    
+    [Snyk] Fix for 1 vulnerabilities
+
+[33mcommit 26ead3963099abe2ae32643d8acae11315f07c30[m
+Author: snyk-bot <snyk-bot@snyk.io>
+Date:   Wed Nov 20 22:08:22 2019 +0000
+
+    fix: Gemfile & Gemfile.lock to reduce vulnerabilities
+    
+    The following vulnerabilities are fixed with an upgrade:
+    - https://snyk.io/vuln/SNYK-RUBY-NOKOGIRI-534637
+
+[33mcommit 40194c70174235c60c1b0998c25e40c564eb2f32[m
+Author: Briana Swift <brianamarie@github.com>
+Date:   Wed Oct 23 11:19:12 2019 +0200
+
+    update dependencies
+
+[33mcommit b487edb26f2175ee99e4ed396c8ae139893e3ef1[m
+Merge: da0efb4 049a9c7
+Author: Hector Alfaro <hectorsector@github.com>
+Date:   Thu Oct 10 09:19:21 2019 -0500
+
+    Merge pull request #10 from githubtraining/snyk-fix-d8874bf5e4d0570a38806a5bbbfded43
+    
+    [Snyk] Fix for 1 vulnerabilities
+
+[33mcommit 049a9c772afd25d445fb960e8309f69d71625b81[m
+Author: snyk-bot <snyk-bot@snyk.io>
+Date:   Sun Sep 29 22:12:20 2019 +0000
+
+    fix: Gemfile & Gemfile.lock to reduce vulnerabilities
+    
+    The following vulnerabilities are fixed with an upgrade:
+    - https://snyk.io/vuln/SNYK-RUBY-RUBYZIP-469156
+
+[33mcommit da0efb4533b54b611a1e15a2502686fe8c24807a[m
+Merge: c06403f 8285599
+Author: Cynthia Rich <crichID@users.noreply.github.com>
+Date:   Tue Aug 13 21:32:27 2019 -0400
+
+    Merge pull request #8 from githubtraining/setup-for-OSS
+    
+    Getting ready to OSS this repo
+
+[33mcommit 82855993e0295471a20a2f4efdf72c28089b332d[m
+Author: Cynthia Rich <crichID@github.com>
+Date:   Tue Aug 13 21:31:12 2019 -0400
+
+    update to most recent dependencies
+
+[33mcommit dd0aae90b722f7421660ed187a5d774a22d968f6[m
+Author: Carolyn Shin <carolynshin@github.com>
+Date:   Fri Aug 9 14:58:10 2019 -0700
+
+    C
